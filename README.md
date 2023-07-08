@@ -1,7 +1,7 @@
 # Optimized-Robust-and-Secure-Digital-Image-Watermarking-Technique-based-on-Modified-PPSD
 Robust and Secure Digital Image Watermarking Technique
 
-[Paper]()
+[Paper](https://github.com/khushiyadav2022/Optimized-Robust-and-Secure-Digital-Image-Watermarking-Technique-based-on-Modified-PPSD/blob/0f37ba4d359694edb6206dd317f7d6f1ffa61ab9/purkh%20paper.pdf)
 
 In my M.Tech thesis, I developed an advanced method for digital image watermarking called "Optimized, Robust, and Secure Digital Image Watermarking Technique based on Modified Periodic and Smooth Decomposition" (PPSD). This technique combines the principles of Periodic and Smooth Decomposition (PPSD), Discrete Wavelet Transform (DWT), and Singular Value Decomposition (SVD) to achieve improved results.
 
